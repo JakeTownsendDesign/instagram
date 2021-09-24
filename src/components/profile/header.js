@@ -53,7 +53,7 @@ export default function Header({
       <div className="container flex justify-center">
         <img
           className="rounded-full h-40 w-40 flex"
-          alt={`${profileUsername} profile picture`}
+          alt={`${profileUsername} profile`}
           src={`/images/avatars/${profileUsername}.jpg`}
         />
       </div>
